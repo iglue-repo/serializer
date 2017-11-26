@@ -1,5 +1,8 @@
 {
-    "name": "symfony/serializer",
+    "name": "symfony@iglue/serializer",
+    "replace": {
+        "symfony/serializer": "v3.2.13"
+    },
     "type": "library",
     "description": "Symfony Serializer Component",
     "keywords": [],
